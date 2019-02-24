@@ -11,12 +11,38 @@ L'unité de temps est la semaine.... lol
 
 ## les objectifs du jeu
 
+L'intérêt d'un jeu fablab est double,  
+1. pour le noob, faciliter l'introduction aux règles en usage dans le fablab
+2. pour l'équipe, le jeu comme simulateur du modèle interne.
+Permet de prendre un recul sur les interactions dans le fablab, pour simuler et tester des choix grâce à des cycles de jeux plus rapides pour une itération accélérée.
 
+C'est un excercie d'empathie aussi, comme un jeu de rôle, on joue des personnages, tour à tout client, membre, partenaire. On se projette dans les projets sans les faire.  
+Auxquels on ajoute l'expérience de 7 ans de gestion de fablab pour l'aléatoire, les fail, les win, les scénarios concrets et les lolcat.
 
+**Nos remarques et idées pour une évolution du jeu.**
+- conditions de victoire? vision du fablab.
+- des paramètres aléatoires ou fixe.
+   - les skills,
+   - les machines,
+   - les matériaux,
+- des personnages dont on tire au hasard les skills en début de partie (comme les 7 premières lettres au scrabble)
+- en plus de cartes "hasard", ajouter une intensité ou une probabilité via un lancé de dé.
+- un niveau de réputation est représenté par le nombre de lancé de dé.
+Une bonne réputation peut influencer la chance, la probabilité de faire "1" est plus basse avec un 4D6 qu'avec 1D6, mais ne nous protège pas non plus de l'Epic Fail.
+- une unité de monnaie? Quelle type de valeur utilisons nous? quel référenciel?
+- Evolution de son personnage. LevelUp, profil.
+- des cartes qui tuent. Les tuiles massivent qui te ruine le slip si t'est pas suffisament à l'équilibre. like
+![image](https://user-images.githubusercontent.com/12049360/53304789-aad82100-3879-11e9-8db2-9e58c3cb155c.png)
+- Mais peut-être qu'il y aurait aussi de quoi eviter le pire. Idunno
+![image](https://user-images.githubusercontent.com/12049360/53304827-1f12c480-387a-11e9-9ad4-ce829213a6e5.png)
+- et une unité de temps contraignante et un timer, parce que la vie est dure et le lapin blanc est toujours en retard.    
+**As a fabmanager, if you have time, you ain't doing it right.**
+
+> hum...  actually, from a non-linear, non-subjective viewpoint, time is more like a big ball of wibbly wobbly timey wimey stuff
 
 ## Pourquoi non-linéraire?
-Je ne sais pas, et pourquoi pas?  
-Comme tout jeu, s'il n'y a pas de place à la créativité et aux choix multiples, l'histoire peut vite perdre de son intérêt.  
+Je ne sais pas, et pourquoi pas? J'ai envie de tester.  
+Comme tout jeux, s'il n'y a pas de place à la créativité et aux choix multiples, l'histoire peut vite perdre de son intérêt.  
 Et il est difficile de scénariser linérairement les choix multiples.   
 
 _petit tuto pour débuter._ http://www.adamhammond.com/twineguide/
