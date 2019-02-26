@@ -31,10 +31,8 @@ Auxquels on ajoute l'expérience de 7 ans de gestion de fablab pour l'aléatoire
 Une bonne réputation peut influencer la chance, la probabilité de faire "1" est plus basse avec un 4D6 qu'avec 1D6, mais ne nous protège pas non plus de l'Epic Fail.
 - une unité de monnaie? Quelle type de valeur utilisons nous? quel référenciel?
 - Evolution de son personnage. LevelUp, profil.
-- des cartes qui tuent. Les tuiles massivent qui te ruine le slip si t'est pas suffisament à l'équilibre. like
-![image](https://user-images.githubusercontent.com/12049360/53304789-aad82100-3879-11e9-8db2-9e58c3cb155c.png)
-- Mais peut-être qu'il y aurait aussi de quoi eviter le pire. Idunno
-![image](https://user-images.githubusercontent.com/12049360/53304827-1f12c480-387a-11e9-9ad4-ce829213a6e5.png)
+- des cartes qui tuent. Les tuiles massivent qui te ruine le slip si t'est pas suffisament à l'équilibre. (Comme dans **Exploding kitten**.)  
+- Mais peut-être qu'il y aurait aussi de quoi eviter le pire. Idunno. (Comme dans **Exploding kitten**.)  
 - et une unité de temps contraignante et un timer, parce que la vie est dure et le lapin blanc est toujours en retard.    
 **As a fabmanager, if you have time, you ain't doing it right.**
 
