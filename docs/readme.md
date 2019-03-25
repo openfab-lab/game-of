@@ -7,4 +7,4 @@
 - sélection de la quête
 - description de Quest, missions, skill&level up 
 
-[lien vers story](https://openfab-lab.github.io/game-of/OFzeGame.html)
+[lien vers le déroulé de jeu](https://openfab-lab.github.io/game-of/OFzeGame.html)
