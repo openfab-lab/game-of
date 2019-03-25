@@ -11,8 +11,68 @@
 
 <tw-story></tw-story>
 
-<tw-storydata name="OFzeGame" startnode="1" creator="Twine" creator-version="2.3.0-beta2" ifid="1A619C5D-F0B3-4AFC-874C-EAEC22C9CE9D" zoom="1" format="Harlowe" format-version="3.0.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Objectifs" tags="" position="407,170.5" size="200,100">Le but du jeu est d&#39;atteindre un équilibre entre Social et Business. 
-</tw-passagedata></tw-storydata>
+<tw-storydata name="OFzeGame" startnode="1" creator="Twine" creator-version="2.3.0-beta2" ifid="1A619C5D-F0B3-4AFC-874C-EAEC22C9CE9D" zoom="1" format="Harlowe" format-version="3.0.0" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
+
+</style><script role="script" id="twine-user-script" type="text/twine-javascript">
+
+</script><tw-passagedata pid="1" name="Select" tags="Mode" position="405,166" size="200,100">Welcome to the game of lab
+
+Choose your level: 
+1. [[makermod &lt;- Are you a maker?]]   
+On y joue le rôle d&#39;un membre du fabab qui a un projet à réaliser (Quest). 
+Il va devoir participer aux activités pour monter en compétence, collecter expérience et matériaux, avec ou sans l&#39;aide des autres membres, afin de fabriquer son projet dans le temps imparti.  
+*ce mode permet aux nouveaux membres du lab de se familiariser avec une autre manière de consommer l&#39;opensource, par la participation au collectif.*  
+- la partie n&#39;est pas collaborative mais on peut s&#39;entraider. 
+- l&#39;équipe de gestion du lab est NPJ (non joueur, comme la banque dans monopoly) 
+
+2. [[Are you part of a team -&gt; teammod]]  
+On y joue le rôle d&#39;un membre du Crew, la quête est la résilience du lab et le jeu est collaboratif.  
+On peut y voir aussi une simulation de fablab pour pratiquer et renforcer les mécaniques internes collaboratives. 
+*ce mode est une extension du mode maker. Et des pack missions fablab pourraient être ajoutée comme des Add-On, provenant de l&#39;expérience de différent fablab*
+
+</tw-passagedata><tw-passagedata pid="2" name="LevelUP" tags="Rulez" position="1115,140" size="200,100">&lt;u&gt;Les compétences et l&#39;expérience&lt;/u&gt;
+
+**Step 1: How to earn a new skill?**
+
+- 2 skills sont tirés au sort en début de partie
+- 1 nouveau skill peut être débloqué lors d&#39;un workshop ou d&#39;un job accompagné d&#39;un membre possédant ce skill 
+- autre chose? une formation ou peut-être un tps suffisant de &quot;glande&quot; sur internet, merci les tuto youtube. 
+*! aux conditions de validation d&#39;une compétence autodidacte = documentation*
+
+**Step 2: How to levelUp?**
+= earning XP
+
+- compléter une mission donne un gain d&#39;XP
+- dépenser son tps libre à regarder/assister un camarade dans une mission // donne droit à de l&#39;XP. Bien que ce soit de l&#39;XP facile et sans risque, le processus est lent. 
+- autres?
+
+</tw-passagedata><tw-passagedata pid="3" name="makermod " tags="" position="527,321" size="100,100">&lt;u&gt;Définition de son personnage&lt;/u&gt;
+
+Sur une fiche de personnage
+
+- **nom** ou blaze au choix
+- **compétence** 2 skill à tirer au hasard
+   - **et le niveau**
+- **ressources** crédits par exemple 
+
+&lt;img src=&quot;https://user-images.githubusercontent.com/12049360/54928426-2cbc7800-4f14-11e9-8e55-4a3ed9aee93f.jpg&quot; alt=&quot;skill&amp;slot&quot;&gt;
+
+*Les compétences sont nécessaires pour accéder à des jobs ou missions plus difficiles mais avec plus de gain. 
+Un skill niveau 1 comporte 3 slots, une jauge à XP qui permet le passage au niveau suivant.*
+
+Une fois les personnages définis, c&#39;est au tour des [[quêtes personnelles-&gt;quest]]
+</tw-passagedata><tw-passagedata pid="4" name=" teammod" tags="" position="238,321" size="100,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="5" name="quest" tags="" position="527,470" size="100,100">&lt;U&gt;Le tirage des quêtes&lt;/u&gt;
+
+Une série de projet sont proposés via des cartes QUEST.  
+Ce sont des projets un peu plus ambitieux et qui combinnent différents domaines de compétences. Laser+arduino, cnc+textile, frite+mayonnaise. 
+
+**Vous en tirez 3 au hasard et sélectionnez celui que vous préférez.**
+
+
+Ceci représente votre condition de victoire pour cette partie.
+
+La quête va réquérire la collecte des ressources nécessaires ainsi que les compétences et leur niveau adapté. 
+</tw-passagedata><tw-passagedata pid="6" name="Untitled Passage" tags="" position="1112,483" size="200,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="7" name="Quest-ls" tags="" position="1113,259" size="200,100">Double-click this passage to edit it.</tw-passagedata><tw-passagedata pid="8" name="Missions" tags="" position="1113,369" size="200,100">Double-click this passage to edit it.</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**
  * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
